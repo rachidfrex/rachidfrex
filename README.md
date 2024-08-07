@@ -1,4 +1,3 @@
-Rachid El Hajouji
 👋 Hi, I’m Rachid, a full-stack developer with a strong passion for both frontend and backend technologies. I specialize in creating intuitive and responsive user interfaces using Tailwind CSS and React.js, as well as robust backend solutions with Laravel and PHP. I am based in Ouezzane, Morocco.
 
 👀 Interests: I am deeply interested in exploring new technologies and frameworks, which fuels my development of personal programming projects. My leisure activities include reading manga and comics, which inspire creativity and innovative thinking in my professional work.
