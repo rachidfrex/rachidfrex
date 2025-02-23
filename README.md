@@ -1,14 +1,55 @@
-👋 Hi, I’m Rachid, a full-stack developer with a strong passion for both frontend and backend technologies. I specialize in creating intuitive and responsive user interfaces using Tailwind CSS and React.js, as well as robust backend solutions with Laravel and PHP. I am based in Ouezzane, Morocco.
+# 👋 Hi, I'm Rachid!
 
-👀 Interests: I am deeply interested in exploring new technologies and frameworks, which fuels my development of personal programming projects. My leisure activities include reading manga and comics, which inspire creativity and innovative thinking in my professional work.
+**Full-Stack Developer | JavaScript & PHP Enthusiast**
 
-🌱 Currently Learning: I am enhancing my skills in Laravel, focusing on advanced features to improve my backend development capabilities and integrate comprehensive security practices into my projects.
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
-💞️ Looking to Collaborate On: I am eager to collaborate on innovative tech projects, particularly open-source platforms that benefit the community. My goal is to contribute to projects where I can apply my skills in React.js and Laravel while learning from and sharing knowledge with other talented developers.
+---
 
-📫 How to Reach Me: The best way to get in touch with me is via email at rachid.elhajouji.dev@gmail.com. You can also visit my personal portfolio at rachid-elhajouji.vercel.app to learn more about my projects and professional background.
+## 🛠️ Tech Stack
 
-<!---
-rachidfrex/rachidfrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![PHP](https://skillicons.dev/icons?i=php)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+## 👀 Interests
+
+- 💡 Exploring new technologies and frameworks
+- 📖 Reading manga & comics for creative inspiration
+- 🛠️ Developing personal programming projects
+
+---
+
+## 🌱 Currently Learning
+
+- 🔹 Advanced **Laravel** features
+- 🔹 Comprehensive **security practices**
+- 🔹 Enhancing backend **scalability**
+
+---
+
+## 💞️ Looking to Collaborate On
+
+- 💻 Open-source projects benefiting the developer community
+- ⚡ Innovative tech solutions utilizing **React.js** and **Laravel**
+- 🤝 Opportunities to learn and share knowledge with fellow developers
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [rachid.elhajouji.dev@gmail.com](mailto:rachid.elhajouji.dev@gmail.com)
+- 🌐 Portfolio: [rachid-elhajouji.vercel.app](https://rachid-elhajouji.vercel.app)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
+---
+
+*Note: Replace `yourusername` in the visitor count URL with your actual GitHub username.*
