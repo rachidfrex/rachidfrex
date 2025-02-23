@@ -47,8 +47,7 @@
 - 📧 Email: [rachid.elhajouji.dev@gmail.com](mailto:rachid.elhajouji.dev@gmail.com)
 - 🌐 Portfolio: [rachid-elhajouji.vercel.app](https://rachid-elhajouji.vercel.app)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=rachidfrex&style=flat-square)
 
 ---
 
-*Note: Replace `yourusername` in the visitor count URL with your actual GitHub username.*
